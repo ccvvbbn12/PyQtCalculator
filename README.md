@@ -1,7 +1,7 @@
 # PyQtCalculator
 A simple calculator built by PyQt5
 
-# Example
+# GUI 
 press "2^10", like this
 
 ![image](https://github.com/ccvvbbn12/PyQtCalculator/blob/master/cal01.png)
